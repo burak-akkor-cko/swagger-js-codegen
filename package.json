@@ -1,7 +1,7 @@
 {
   "name": "swagger-js-codegen-cko",
   "main": "./lib/codegen.js",
-  "version": "1.6.9-cko.1",
+  "version": "1.6.9-cko.2",
   "description": "CKO update for swagger codegen",
   "scripts": {
     "test": "grunt"
